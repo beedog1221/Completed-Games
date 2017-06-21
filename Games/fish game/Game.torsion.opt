@@ -1,0 +1,14 @@
+<TorsionProjectOptions>
+<Address>127.0.0.1</Address>
+<Password>password</Password>
+<Port>6060</Port>
+<LastConfig>Release</LastConfig>
+<Breakpoints/>
+<Bookmarks/>
+<OpenFiles>
+<File ScrollX="0" ScrollY="0">game\gameScripts\FishFood.cs</File>
+<File ScrollX="0" ScrollY="0">game\gameScripts\game.cs</File>
+<File ScrollX="0" ScrollY="0">game\gameScripts\Fish.cs</File>
+<File ScrollX="0" ScrollY="126" Active="true">game\gameScripts\player.cs</File>
+</OpenFiles>
+</TorsionProjectOptions>
